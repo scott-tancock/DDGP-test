@@ -1,3 +1,3 @@
 entity test is
-port();
+port(clk : in std_logic);
 end entity
